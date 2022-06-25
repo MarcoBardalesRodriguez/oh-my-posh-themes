@@ -1,0 +1,1 @@
+eval "$(oh-my-posh --init --shell bash --config C:/'Program Files (x86)'/oh-my-posh/themes/amro.omp.json)"
